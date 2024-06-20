@@ -29,8 +29,7 @@ Prior to the M.S. degree, I received my B.S. (Electrical Engineering) degree at 
 My ultimate goal is to increase the accessibility of AI technology in human life. To achieve this goal, my primary research interests lies in
 - <span style='background-color: #ffffdd'>**Multimodal Learning**</span>. I aim to build a model that understands and communicates through various modalities, which will enhance human-machine interaction that would ultimately expand the accessibility of AI to the people who can only handle certain modality information. <br />
 - <span style='background-color: #ffffdd'>**Efficient Training**</span>. To further enhance the AI accessibility to individuals, it is crucial to address the high training costs associated with developing concurrent models. I aim to minimize the costs by developing algorithms that identify redundancies in training data and opimized the training order. 
-- <span style='background-color: #ffffdd'>**Continual Learning**</span>. I am also interested in maintaining models up-to-date by effectively integrating new and emerging knowledge into the models. 
-
+- <span style='background-color: #ffffdd'>**Continual Learning**</span>. I am also interested in maintaining models up-to-date by effectively integrating new and emerging knowledge into the models.
 
 # 📝 Publications
 (* denotes the equal contribution and ^ denotes equal advising)
@@ -81,6 +80,7 @@ Wonjun Yi, Jung-Woo Choi, **Jaewoo Lee** <br />
       
 - *2021.06 - 2021.08*, <span style='background-color: #f1f8ff'>**Research Intern**</span>, [Urban Robotics Lab, KAIST](https://urobot.kaist.ac.kr/), South Korea.
     - Under the supervision of Prof. Hyun Myung
+
 -----
 
 

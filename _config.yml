@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jaewoo Lee"
-  avatar           : "images/daeun_grad.png"
+  avatar           : "images/android-chrome-512x512.png"
   bio              : "MS student in the Graduate School of AI at KAIST"
   location         : "Seoul, South Korea"
   employer         :
@@ -64,6 +64,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - assets
 exclude:
   - docs
   - google_scholar_crawler
