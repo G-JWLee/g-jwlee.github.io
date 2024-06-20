@@ -19,7 +19,7 @@ redirect_from:
 ---
 
 Thanks for visiting my website!<br />
-I am **Jaewoo Lee (이재우)** (jwlee8877 \[at] kaist \[dot] ac \[dot] kr). Here is my [CV (Curriculum Vitae)](/assets/files/CV_resume.pdf)
+I am **Jaewoo Lee (이재우)** (jwlee8877 \[at] kaist \[dot] ac \[dot] kr). Here is my [CV (Curriculum Vitae)](/assets/files/cv.pdf)
 
 ---
 
