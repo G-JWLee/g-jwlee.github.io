@@ -70,7 +70,7 @@ Wonjun Yi, Jung-Woo Choi, **Jaewoo Lee** <br />
 -----
 
 # 💻 Research Experiences
-- *2023.03 - 2024.008*, <span style='background-color: #f1f8ff'>**Master degree Student**</span>, **[MLAI Lab, KAIST](https://www.mlai-kaist.com/)**, South Korea.
+- *2023.03 - 2024.08*, <span style='background-color: #f1f8ff'>**Master degree Student**</span>, **[MLAI Lab, KAIST](https://www.mlai-kaist.com/)**, South Korea.
     - Under the supervision of Prof. Sung Ju Hwang
   
 - *2022.07 - 2023.02*, <span style='background-color: #f1f8ff'>**Research Intern**</span>, **[MLAI Lab, KAIST](https://www.mlai-kaist.com/)**, South Korea.
@@ -83,11 +83,4 @@ Wonjun Yi, Jung-Woo Choi, **Jaewoo Lee** <br />
     - Under the supervision of Prof. Hyun Myung
 -----
 
-# 🎖 Honors and Awards
-- *2024.06*, <span style='background-color: #f1f8ff'>**Travel Grant from ICML2024 Organizers**</span>
-- *2020 - 2024*, <span style='background-color: #f1f8ff'>**Special Scholarship**</span> for outstanding students from Korea University.
-- *2021.12*, <span style='background-color: #f1f8ff'>**5st place**</span>, ICT Autonomous Driving Project
-- *2021.05*, <span style='background-color: #f1f8ff'>**2nd place**</span>, [Digital Innovation Big Data Contest](https://github.com/daeunni/KED_Project)
-- *2020.12*, <span style='background-color: #f1f8ff'>**1st place**</span>, [Financial Big Data Festival](https://github.com/daeunni/Insurance-contest)
-- *2020.05*, <span style='background-color: #f1f8ff'>**TOP 2%**</span>, [KAKAO ARENA](https://github.com/daeunni/kakao-arena)
 

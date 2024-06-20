@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Daeun Lee"
-description              : "Incoming PhD student🎓"
-repository               : "daeunni/daeunni.github.io"
+title                    : "Jaewoo Lee"
+description              : "Master student in the Graduate School of AI at KAIST."
+repository               : "G-JWLee/g-jwlee.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,29 +21,29 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Daeun Lee"
+  name             : "Jaewoo Lee"
   avatar           : "images/daeun_grad.png"
-  bio              : "Korea Univ. Statistics"
+  bio              : "MS student in the Graduate School of AI at KAIST"
   location         : "Seoul, South Korea"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.co.kr/citations?user=hdMDLwcAAAAJ&hl=ko"
-  email            : "goodgpt@korea.ac.kr"
+  googlescholar    : "https://scholar.google.com/citations?hl=ko&user=z3Kg-u4AAAAJ"
+  email            : "jwlee8877@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://daeun-computer-uneasy.tistory.com/"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "daeunni"
+  github           : "G-JWLee"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "daeunlee00"
+  linkedin         :
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
