@@ -32,7 +32,7 @@ My ultimate goal is to increase the accessibility of AI technology in human life
 - <span style='background-color: #ffffdd'>**Continual Learning**</span>. I am also interested in maintaining models up-to-date by effectively integrating new and emerging knowledge into the models.
 
 # 📝 Publications
-(* denotes the equal contribution and ^ denotes equal advising)
+(* denotes the equal contribution and ^ denotes the equal advising)
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/COINCIDE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
