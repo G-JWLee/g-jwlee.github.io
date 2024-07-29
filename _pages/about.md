@@ -78,7 +78,7 @@ Wonjun Yi, Jung-Woo Choi, **Jaewoo Lee** <br />
 - *2021.09 - 2022.06*, <span style='background-color: #f1f8ff'>**Research Intern**</span>, **[Smart Sound Systems Lab, KAIST](https://www.sound.kaist.ac.kr/)**, South Korea.
     - Under the supervision of Prof. Jung-Woo Choi
       
-- *2021.06 - 2021.08*, <span style='background-color: #f1f8ff'>**Research Intern**</span>, [Urban Robotics Lab, KAIST](https://urobot.kaist.ac.kr/), South Korea.
+- *2021.06 - 2021.08*, <span style='background-color: #f1f8ff'>**Research Intern**</span>, **[Urban Robotics Lab, KAIST](https://urobot.kaist.ac.kr/)**, South Korea.
     - Under the supervision of Prof. Hyun Myung
 
 -----
