@@ -56,7 +56,7 @@ International Conference on Machine Learning **(ICML), 2024** <br />
 
 - **Sound-based drone fault classification using multitask learning** [[paper]](https://arxiv.org/abs/2304.11708) [[dataset]](https://zenodo.org/records/7779574#.ZEVncnZBwQ-) <br />
 Wonjun Yi, Jung-Woo Choi, **Jaewoo Lee** <br />
-29th International Congress on Sound and Vibration **(ICSV29), 2023** <br />
+International Congress on Sound and Vibration **(ICSV), 2023** <br />
 </div>
 </div>
 
