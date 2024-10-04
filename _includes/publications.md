@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;"> 📝 Publications</h2>
 <p style="font-size: 14px; margin-top: 10px;">(* denotes the equal contribution and ^ denotes the equal advising)</p>
 
 <div class="publications">

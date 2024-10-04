@@ -1,4 +1,4 @@
-## Research Experiences
+## 💻 Research Experiences
 - *2023.08 - current*, <span style='background-color: #f1f8ff'>**AI Researcher**</span>, **[DeepAuto](https://www.deepauto.ai/)**, South Korea.
 - *2023.03 - 2024.08*, <span style='background-color: #f1f8ff'>**Master degree Student**</span>, **[MLAI Lab, KAIST](https://www.mlai-kaist.com/)**, South Korea.
 - *2022.07 - 2023.02*, <span style='background-color: #f1f8ff'>**Research Intern**</span>, **[MLAI Lab, KAIST](https://www.mlai-kaist.com/)**, South Korea.
