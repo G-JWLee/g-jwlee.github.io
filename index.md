@@ -16,3 +16,6 @@ My goal is to make AI more accessible in everyday life, with research focused on
 - **Instruction Tuning:** I want to discover structures of skills from Large Vision-Language Models and use them to optimize [training order](./assets/files/Skill_based_Curriculumn_Learning_for_Large_Vison_Language_Models.pdf) to enhance efficiency.
 
 {% include_relative _includes/publications.md %}
+{% include_relative _includes/educations.md %}
+{% include_relative _includes/research_experiences.md %}
+{% include_relative _includes/honors_and_awards.md %}
