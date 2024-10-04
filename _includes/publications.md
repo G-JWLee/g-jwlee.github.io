@@ -1,4 +1,5 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<p style="font-size: 14px;">(* denotes the equal contribution and ^ denotes the equal advising)</p>
 
 <div class="publications">
 <ol class="bibliography">
@@ -30,7 +31,7 @@
       {% if link.page %} 
       <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       {% endif %}
-      {% if link.bibtex %} 
+      {% if link.dataset %} 
       <a href="{{ link.dataset }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Dataset</a>
       {% endif %}
       {% if link.bibtex %} 
