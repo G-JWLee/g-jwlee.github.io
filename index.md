@@ -13,7 +13,7 @@ My goal is to make AI more accessible in everyday life, with research focused on
 - **Multimodal:** My goal is to develop multimodal models that enhance human-machine interaction and increase AI accessibility in everyday life.     
 - **Efficiency:** To further enhance the AI accessibility, I aim to minimize AI training & inference costs by developing algorithms that identify data or model redundancies.          
 - **Continual Learning:** I am also interested in maintaining models up-to-date by effectively integrating emerging knowledge.     
-- **Curriculum Learning:** I want to discover structures of skills from Large Vision-Language Models and use them to optimize instruction tuning order to enhance training efficiency [Empirical Study](./assets/files/Skill_based_Curriculumn_Learning_for_Large_Vison_Language_Models.pdf).
+- **Curriculum Learning:** I want to discover structures of skills from Large Vision-Language Models and use them to optimize instruction tuning order to enhance training efficiency ([Empirical Study](./assets/files/Skill_based_Curriculumn_Learning_for_Large_Vison_Language_Models.pdf)).
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/educations.md %}
