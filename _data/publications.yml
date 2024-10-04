@@ -1,0 +1,33 @@
+main:
+
+  - title: "Unified Multi-Modal Interleaved Document Representation for Information Retrieval"
+    authors: <strong>Jaewoo Lee*</strong>, Joonho Ko*, Jinheon Baek*, Soyeong Jeong, Sung Ju Hwang 
+    conference_short: Preprint
+    conference: Preprint.
+    pdf: https://arxiv.org/abs/2410.02729
+    image: ./assets/img/IDentify.png
+
+  - title: "Concept-skill Transferability-based Data Selection for Large Vision-Language Models"
+    authors: <strong>Jaewoo Lee</strong>, Boyang Li, Sung Ju Hwang
+    conference_short: EMNLP
+    conference: Conference on Empirical Methods in Natural Language Processing, Main conference Long paper <strong>(EMNLP)</strong>, 2024.
+    code: https://github.com/G-JWLee/COINCIDE_code
+    pdf: https://arxiv.org/abs/2406.10995
+    image: ./assets/img/COINCIDE.png
+
+  - title: "STELLA: Continual Audio-Video Pre-training with Spatio-Temporal Localized Alignment"
+    authors: <strong>Jaewoo Lee*</strong>, Jaehong Yoon*, Wongjae Kim, Yunji Kim, Sung Ju Hwang
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
+    page: https://cl-stella.github.io/
+    code: https://github.com/G-JWLEE/STELLA_code
+    pdf: https://arxiv.org/abs/2310.08204
+    image: ./assets/img/STELLA.png
+  
+  - title: "Sound-based drone fault classification using multitask learning"
+    authors: Wonjun Yi, Jung-Woo Choi, <strong>Jaewoo Lee</strong>
+    conference_short: ICSV
+    conference: International Congress on Sound and Vibration <strong>(ICSV)</strong>, 2023.
+    dataset: https://zenodo.org/records/7779574#.ZEVncnZBwQ-
+    pdf: https://arxiv.org/abs/2304.11708
+    image: ./assets/img/multitask.png
