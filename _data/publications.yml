@@ -8,7 +8,7 @@ main:
     image: ./assets/img/IDentify.png
 
   - title: "Concept-skill Transferability-based Data Selection for Large Vision-Language Models"
-    authors: <strong>Jaewoo Lee</strong>, Boyang Li, Sung Ju Hwang
+    authors: <strong>Jaewoo Lee</strong>, Boyang Li^, Sung Ju Hwang^
     conference_short: EMNLP
     conference: Conference on Empirical Methods in Natural Language Processing, Main conference Long paper <strong>(EMNLP)</strong>, 2024.
     code: https://github.com/G-JWLee/COINCIDE_code
