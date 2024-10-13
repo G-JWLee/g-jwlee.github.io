@@ -9,11 +9,11 @@ I received a M.S. degree in Artificial Intelligence at KAIST, [MLAI Lab](https:/
 I'm currently working as an AI researcher at [DeepAuto](https://www.deepauto.ai/).     
 
 ## Research Interests
-My goal is to make AI more accessible in everyday life, with research focused on
-- **Multimodal (Vision-Language, Audio-Video, Audio-Image):** My goal is to develop multimodal models that enhance human-machine interaction and increase AI accessibility in everyday life.     
-- **Efficiency (Data pruning, Model compression, Token Selection):** To further enhance the AI accessibility, I aim to minimize AI training & inference costs by developing algorithms that identify data or model structure redundancies.          
+My goal is to promote greater AI accessibility in everyday life, with research focused on
+- **Multimodal (Vision-Language, Audio-Video, Audio-Image, Interleaved modalities):** I aim to discover multimodal interactions within data and, based on these insights, develop models that effectively understand various modalities, leading to enhanced human-machine interaction and increased AI accessibility in human life.     
+- **Efficiency (Data pruning, Token Selection, Model compression):** To further enhance the AI accessibility, I aim to minimize training or inference costs of models by developing algorithms that identify data or model structure redundancies.          
 - **Continual Learning:** I am also interested in developing algorithms that keep models up-to-date by effectively integrating emerging knowledge.     
-- **Curriculum Learning:** I aim to discover the structure of skills in Large Vision-Language Models to optimize data order in instruction tuning, enhancing training efficiency ([Empirical Study](./assets/files/Skill_based_Curriculumn_Learning_for_Large_Vison_Language_Models.pdf)).
+- **Curriculum Learning:** One of my interests is discovering the relationship between task-solving skills in Large Vision-Language Models to optimize instruction tuning data order, improving training efficiency ([Empirical Study](./assets/files/Skill_based_Curriculumn_Learning_for_Large_Vison_Language_Models.pdf)).
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/educations.md %}
