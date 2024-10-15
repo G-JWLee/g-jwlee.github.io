@@ -13,7 +13,7 @@ My goal is to promote greater AI accessibility in everyday life, with research f
 - **Multimodal (Vision-Language, Audio-Video, Audio-Image, Interleaved modalities):** I aim to uncover multimodal interactions within data and, based on these insights, develop models that effectively understand various modalities, leading to enhanced human-machine interaction and increased AI accessibility in human life.     
 - **Efficiency (Data pruning, Token Selection, Model compression):** To further enhance the AI accessibility, I aim to minimize training or inference costs of models by developing algorithms that identify data or model structure redundancies.          
 - **Continual Learning:** I am also interested in developing algorithms that keep models up-to-date by effectively integrating emerging knowledge.
-- **Curriculum Learning:** One of my interests is discovering the relationship between task-solving skills in Large Vision-Language Models to optimize instruction tuning data order, improving training efficiency ([Empirical Study](./assets/files/Skill_based_Curriculumn_Learning_for_Large_Vison_Language_Models.pdf)).
+- **Curriculum Learning:** One of my interests is discovering the relationship between task-solving skills in Large Vision-Language Models to optimize instruction tuning data order, improving training efficiency ([Empirical Study](./assets/files/empirical_study.pdf)).
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/educations.md %}
