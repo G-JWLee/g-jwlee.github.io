@@ -11,7 +11,7 @@ I'm currently working as an AI researcher at [DeepAuto](https://www.deepauto.ai/
 ## Research Interests
 My goal is to promote greater AI accessibility in everyday life, with research focused on
 - **Multimodal (Vision-Language, Audiovisual, Interleaved modalities):** I aim to uncover multimodal interactions within data and, based on these insights, develop models that effectively understand various modalities, leading to enhanced human-machine interaction and increased AI accessibility in our daily lives.     
-- **Efficiency (Data pruning, Token Selection, Model compression):** To further democratize AI accessibility, I aim to uncover data attributes and leverage these insights to design algorithms that minimize training or inference costs of models.          
+- **Efficiency (Data selection, Token pruning, Model compression):** To further democratize AI accessibility, I aim to uncover data attributes and leverage these insights to design algorithms that minimize training or inference costs of models.          
 - **Continual Learning:** I am also interested in developing algorithms that keep models up-to-date by effectively integrating emerging knowledge.
 - **Curriculum Learning:** One of my interests is discovering the relationship between task-solving skills in Large Vision-Language Models to optimize instruction tuning data order, improving training efficiency ([Empirical Study](./assets/files/empirical_study.pdf)).
 
