@@ -10,11 +10,16 @@ I'm currently working as an AI researcher at [DeepAuto](https://www.deepauto.ai/
 
 ## Research Interests
 My goal is to promote AI democratization by developing resource-efficient multimodal models that makes AI more accessible and interactive for anyone. Lowering resource barriers and enhancing language and multimodal understanding will empower diverse groups to contribute to AI development and broaden AI use for individuals.
-- **Multimodal (Vision-Language, Audiovisual, Interleaved modalities):**I aim to uncover interactions between modalities and, based on these insights, develop models that understand various multimodal knowledge, leading to more accessible and interactive AI.
-- **Efficiency in data & algorithms (Data selection, Continual learning, Curriculum learning):** To further enhance AI accessibility, I aim to design algorithms that minimize the training costs of models. I am drawn to combining data curation with continual or curriculum learning ([Empirical Study](./assets/files/empirical_study.pdf)).
-- **Efficiency in systems (Retrieval-Augmented Generation, Information retrieval):** Storing enormous and growing world knowledge in models is challenging. I aim to decouple knowledge from task-solving skills.
-- **Efficiency in architectures (Mixture of Experts, Token pruning): I am passionate about designing architectures for efficient training and deployment of models for complex tasks and multimodalities**
-- **Interpretability (Interpretable LLM and MLL, Attribution methods): I learned that effective frameworks stem from understanding model behaviors and data. I am interested in exploring how unique patterns emerge in multimodal LLMs and how modalities interact during processing.**
+- **Multimodal (Vision-Language, Audiovisual, Interleaved modalities):**  
+I aim to uncover interactions between modalities and, based on these insights, develop models that understand various multimodal knowledge, leading to more accessible and interactive AI.
+- **Efficiency in data & algorithms (Data selection, Continual learning, Curriculum learning):**  
+To further enhance AI accessibility, I aim to design algorithms that minimize the training costs of models. I am drawn to combining data curation with continual or curriculum learning ([Empirical Study](./assets/files/empirical_study.pdf)).
+- **Efficiency in systems (Retrieval-Augmented Generation, Information retrieval):**  
+Storing enormous and growing world knowledge in models is challenging. I aim to decouple knowledge from task-solving skills.
+- **Efficiency in architectures (Mixture of Experts, Token pruning):**  
+I am passionate about designing architectures for efficient training and deployment of models for complex tasks and multimodalities.
+- **Interpretability (Interpretable LLM and MLL, Attribution methods):**   
+I learned that effective frameworks stem from understanding model behaviors and data. I am interested in exploring how unique patterns emerge in multimodal LLMs and how modalities interact during processing.
     
 
 {% include_relative _includes/publications.md %}
