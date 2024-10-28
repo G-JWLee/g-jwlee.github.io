@@ -13,7 +13,7 @@ My goal is to promote AI democratization by developing resource-efficient multim
 - **Multimodal (Vision-Language, Audiovisual, Interleaved modalities):**  
 I aim to uncover interactions between modalities and, based on these insights, develop models that understand various multimodal knowledge, leading to more accessible and interactive AI.
 - **Efficiency in data & algorithms (Data selection, Continual learning, Curriculum learning):**  
-To further enhance AI accessibility, I aim to design algorithms that minimize the training costs of models. I am drawn to combining data curation with continual or curriculum learning ([Empirical Study](./assets/files/empirical_study.pdf)).
+To further enhance AI accessibility, I am keen on designing algorithms that minimize the training costs of models. I am currently interested in combining data curation with continual or curriculum learning ([Empirical Study](./assets/files/empirical_study.pdf)).
 - **Efficiency in systems (Retrieval-Augmented Generation, Information retrieval):**  
 Storing enormous and growing world knowledge in models is challenging. I aim to decouple knowledge from task-solving skills.
 - **Efficiency in architectures (Mixture of Experts, Token pruning):**  
