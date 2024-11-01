@@ -10,7 +10,7 @@ I'm currently working as an AI researcher at [DeepAuto](https://www.deepauto.ai/
 
 ## Research Interests
 My goal is to promote AI democratization by developing resource-efficient multimodal models that make AI more accessible and interactive for anyone.
-- **Multimodal (Vision-Language, Audiovisual, Interleaved modalities):**  
+- **Multimodal (Vision-Language, Audio-Visual, Interleaved modalities):**  
 I am intrigued by uncovering interactions between modalities and, based on these insights, developing models that understand various multimodal knowledge, leading to more accessible and interactive AI.
 - **Efficiency in data & algorithms (Data selection, Continual learning, Curriculum learning):**  
 To further enhance AI accessibility, I am keen on designing algorithms that minimize the training costs of models. I am currently interested in combining data curation with continual or curriculum learning ([Empirical Study](./assets/files/empirical_study.pdf)).
