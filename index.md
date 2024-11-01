@@ -16,7 +16,7 @@ I am intrigued by uncovering interactions between modalities and, based on these
 To further enhance AI accessibility, I am keen on designing algorithms that minimize the training costs of models. I am currently interested in combining data curation with continual or curriculum learning ([Empirical Study](./assets/files/empirical_study.pdf)).
 - **Efficiency in systems (Retrieval-Augmented Generation, Information retrieval):**  
 Storing enormous and growing world knowledge in models is challenging. I aim to decouple knowledge from task-solving skills.
-- **Efficiency in architectures (Mixture of Experts, Token pruning):**  
+- **Efficiency in architectures (Mixture of Experts, Token reduction):**  
 I am passionate about designing architectures for efficient training and deployment of models for complex tasks and multimodalities.
 - **Interpretability (Interpretable LLM and MLL, Attribution methods):**   
 Effective frameworks stem from understanding model behaviors and data. I am interested in exploring how modalities interact during processing.
