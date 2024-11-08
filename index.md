@@ -18,7 +18,7 @@ To further enhance AI accessibility, I am keen on designing algorithms that mini
 Storing enormous and growing world knowledge in models is challenging. I aim to decouple knowledge from task-solving skills.
 - **Efficiency in architectures (Mixture of Experts, Token reduction):**  
 I am passionate about designing architectures for efficient training and deployment of models for complex tasks and multimodalities.
-- **Interpretability (Interpretable LLM and MLL, Attribution methods):**   
+- **Interpretability (Interpretable LLM and MLLM, Attribution methods):**   
 Effective frameworks stem from understanding model behaviors and data. I am interested in exploring how modalities interact during processing.
     
 
