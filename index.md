@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 Thanks for visiting my website!😄     
-I am a incoming Ph.D. student at UNC Chapel Hill, [MURGe-Lab](https://murgelab.cs.unc.edu/) (Advisor: [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/)).  
+I am an incoming Ph.D. student at UNC Chapel Hill, [MURGe-Lab](https://murgelab.cs.unc.edu/) (Advisor: [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/)).  
 I received a M.S. degree in Artificial Intelligence at KAIST in Aug 2024, advised by [Prof.Sung Ju Hwang](http://www.sungjuhwang.com/)), and a B.S. degree in Electrical Engineering at KAIST in Feb 2023.
 
 ## Research Interests
