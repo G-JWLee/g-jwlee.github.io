@@ -5,11 +5,10 @@ layout: homepage
 ## About Me
 
 Thanks for visiting my website!😄     
-I received a M.S. degree in Artificial Intelligence at KAIST, [MLAI Lab](https://www.mlai-kaist.com/) (Advisor: [Prof.Sung Ju Hwang](http://www.sungjuhwang.com/)) in Aug 2024, and a B.S. degree in Electrical Engineering at KAIST in Feb 2023.     
-I'm currently working as an AI researcher at [DeepAuto](https://www.deepauto.ai/).     
+I am a incoming Ph.D. student at UNC Chapel Hill, [MURGe-Lab](https://murgelab.cs.unc.edu/) (Advisor: [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/)). I received a M.S. degree in Artificial Intelligence at KAIST in Aug 2024, advised by [Prof.Sung Ju Hwang](http://www.sungjuhwang.com/)), and a B.S. degree in Electrical Engineering at KAIST in Feb 2023.
 
 ## Research Interests
-My goal is to promote AI democratization by developing resource-efficient multimodal models that make AI more accessible and interactive for anyone.
+<!-- My goal is to promote AI democratization by developing resource-efficient multimodal models that make AI more accessible and interactive for anyone.
 - **Multimodal (Vision-Language, Audio-Visual, Interleaved modalities):**  
 I am intrigued by uncovering interactions between modalities and, based on these insights, developing models that understand various multimodal knowledge, leading to more accessible and interactive AI.
 - **Efficiency in data & algorithms (Data selection, Continual learning, Curriculum learning):**  
@@ -19,8 +18,13 @@ Storing enormous and growing world knowledge in models is challenging. I aim to 
 - **Efficiency in architectures (Mixture of Experts, Token reduction, Model Compression):**  
 I am passionate about designing architectures for efficient training and deployment of models for complex tasks and multimodalities.
 - **Interpretability (Interpretable LLM and MLLM, Attribution methods):**   
-Effective frameworks stem from understanding model behaviors and data. I am interested in exploring how modalities interact during processing.
-    
+Effective frameworks stem from understanding model behaviors and data. I am interested in exploring how modalities interact during processing. -->
+My goal is to promote AI democratization by developing resource-efficient multimodal models that make AI more accessible and interactive for anyone.
+- **Multimodal:** Vision-Language, Audio-Visual, Interleaved modalities  
+- **Efficiency in data & algorithms:**  Data selection, Continual learning, Curriculum learning  
+- **Efficiency in systems:**  Retrieval-Augmented Generation, Information retrieval  
+- **Efficiency in architectures:**  Mixture of Experts, Token reduction, Model Compression  
+- **Interpretability:**  Interpretable LLM and MLLM, Attribution methods     
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/educations.md %}
