@@ -6,7 +6,7 @@ main:
     conference: Preprint.
     code: https://github.com/G-JWLee/TAMP
     pdf: https://arxiv.org/abs/2504.09897
-    image: ./assets/img/TAMP2.png
+    image: ./assets/img/TAMP.png
 
   - title: "Unified Multi-Modal Interleaved Document Representation for Information Retrieval"
     authors: <strong>Jaewoo Lee*</strong>, Joonho Ko*, Jinheon Baek*, Soyeong Jeong, Sung Ju Hwang 
