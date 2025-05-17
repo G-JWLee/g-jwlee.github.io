@@ -8,7 +8,7 @@ main:
     pdf: https://arxiv.org/abs/2504.09897
     image: ./assets/img/TAMP.png
 
-  - title: "Unified Multi-Modal Interleaved Document Representation for Information Retrieval"
+  - title: "Unified Multimodal Interleaved Document Representation for Retrieval"
     authors: <strong>Jaewoo Lee*</strong>, Joonho Ko*, Jinheon Baek*, Soyeong Jeong, Sung Ju Hwang 
     conference_short: Preprint
     conference: Preprint.
