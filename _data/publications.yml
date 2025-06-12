@@ -11,7 +11,7 @@ main:
   - title: "Unified Multimodal Interleaved Document Representation for Retrieval"
     authors: <strong>Jaewoo Lee*</strong>, Joonho Ko*, Jinheon Baek*, Soyeong Jeong, Sung Ju Hwang 
     conference_short: ICML Workshop
-    conference: VecDB Workshop @ International Conference on Machine Learning (ICML), 2025.
+    conference: VecDB Workshop @ International Conference on Machine Learning <strong>(ICML Workshop)</strong>, 2025.
     pdf: https://arxiv.org/abs/2410.02729
     image: ./assets/img/IDentify.png
 
