@@ -7,6 +7,7 @@ layout: homepage
 Thanks for visiting my website!😄     
 I am an incoming Ph.D. student at UNC Chapel Hill, [MURGe-Lab](https://murgelab.cs.unc.edu/) (Advisor: [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/)).  
 I received a M.S. degree in Artificial Intelligence at KAIST in Aug 2024 ([Prof. Sung Ju Hwang](http://www.sungjuhwang.com/)) and a B.S. degree in Electrical Engineering at KAIST in Feb 2023.
+Previously, I interned at the [MIT Media Lab](https://pliang279.github.io/), where I had the opportunity to collaborate with [Prof. Paul Liang](https://pliang279.github.io/) and [Prof. Yi R. Fung](https://mayrfung.github.io/). 
 
 ## Research Interests
 <!-- My goal is to promote AI democratization by developing resource-efficient multimodal models that make AI more accessible and interactive for anyone.
@@ -20,13 +21,14 @@ Storing enormous and growing world knowledge in models is challenging. I aim to 
 I am passionate about designing architectures for efficient training and deployment of models for complex tasks and multimodalities.
 - **Interpretability (Interpretable LLM and MLLM, Attribution methods):**   
 Effective frameworks stem from understanding model behaviors and data. I am interested in exploring how modalities interact during processing. -->
-My goal is to promote AI democratization by developing resource-efficient multimodal models that make AI more accessible and interactive for anyone.
+<!-- My goal is to promote AI democratization by developing resource-efficient multimodal models that make AI more accessible and interactive for anyone. -->
 - **Multimodal:** Vision-Language, Audio-Visual, Interleaved modalities  
 - **Efficiency in data & algorithms:**  Data selection, Continual learning, Curriculum learning  
 - **Efficiency in systems:**  Retrieval-Augmented Generation, Information retrieval  
 - **Efficiency in architectures:**  Mixture of Experts, Token reduction, Model Compression  
 - **Interpretability:**  Interpretable LLM and MLLM, Attribution methods     
 
+{% include_relative _includes/news.md %}
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/educations.md %}
 {% include_relative _includes/research_experiences.md %}
