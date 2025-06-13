@@ -5,4 +5,5 @@
 - **[Apr. 2025]** One paper got accepted to **ACL Findings 2025** 🇦🇹
 - **[Feb. 2025]** I finished my research internship at [MIT Media Lab](https://www.media.mit.edu/)!
 - **[Aug. 2024]** One paper got accepted to **EMNLP 2024** 🇺🇸
+- **[Jun. 2024]** I finished my research collaboration at [NTU](http://boyangli.org/)!
 - **[May. 2024]** One paper got accepted to **ICML 2024** 🇦🇹
