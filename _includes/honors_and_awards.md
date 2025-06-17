@@ -1,4 +1,4 @@
-## 🎖 Honors and Awards
+## Honors and Awards
 - KAIST *Summa Cum Laude* Award, Feb. 2023
 - National Scholarship for Science & Engineering, Sep. 2022 - Feb. 2023
 - Encouragement Award for the Undergraduate Research Program, Aug. 2022
