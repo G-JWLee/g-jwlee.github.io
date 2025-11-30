@@ -18,4 +18,3 @@ I received a M.S. degree in Artificial Intelligence at KAIST in Aug 2024 ([Prof.
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/educations.md %}
 {% include_relative _includes/research_experiences.md %}
-<!-- {% include_relative _includes/honors_and_awards.md %} -->
