@@ -1,5 +1,12 @@
 main:
 
+  - title: "PRInTS: Reward Modeling for Long-Horizon Information Seeking"
+    authors: <strong>Jaewoo Lee</strong>, Archiki Prasad, Justin Chih-Yao Chen, Zaid Khan, Elias Stengel-Eskin, Mohit Bansal 
+    conference: preprint.
+    code: https://github.com/G-JWLee/PRInTS
+    pdf: https://arxiv.org/abs/2511.19314
+    image: ./assets/img/PRInTS.png
+
   - title: "TAMP: Token-Adaptive Layerwise Pruning in Multimodal Large Language Models"
     authors: <strong>Jaewoo Lee</strong>, Keyang Xuan, Chanakya Ekbote, Sandeep Polisetty, Yi R. (May) Fung, Paul Pu Liang 
     conference_short: ACL Findings
