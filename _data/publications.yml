@@ -7,6 +7,13 @@ main:
     pdf: https://arxiv.org/abs/2511.19314
     image: ./assets/img/PRInTS.png
 
+  - title: "Unified Multimodal Interleaved Document Representation for Retrieval"
+    authors: <strong>Jaewoo Lee*</strong>, Joonho Ko*, Jinheon Baek*, Soyeong Jeong, Sung Ju Hwang 
+    conference_short: EACL Findings
+    conference: European Chapter of the Association for Computational Linguistics <strong>(EACL Findings)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2410.02729
+    image: ./assets/img/IDentify.png
+
   - title: "TAMP: Token-Adaptive Layerwise Pruning in Multimodal Large Language Models"
     authors: <strong>Jaewoo Lee</strong>, Keyang Xuan, Chanakya Ekbote, Sandeep Polisetty, Yi R. (May) Fung, Paul Pu Liang 
     conference_short: ACL Findings
@@ -14,13 +21,6 @@ main:
     code: https://github.com/G-JWLee/TAMP
     pdf: https://arxiv.org/abs/2504.09897
     image: ./assets/img/TAMP.png
-
-  - title: "Unified Multimodal Interleaved Document Representation for Retrieval"
-    authors: <strong>Jaewoo Lee*</strong>, Joonho Ko*, Jinheon Baek*, Soyeong Jeong, Sung Ju Hwang 
-    conference_short: ICML Workshop
-    conference: VecDB Workshop @ International Conference on Machine Learning <strong>(ICML Workshop)</strong>, 2025.
-    pdf: https://arxiv.org/abs/2410.02729
-    image: ./assets/img/IDentify.png
 
   - title: "Concept-skill Transferability-based Data Selection for Large Vision-Language Models"
     authors: <strong>Jaewoo Lee</strong>, Boyang Li^, Sung Ju Hwang^
