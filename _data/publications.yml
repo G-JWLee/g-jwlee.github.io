@@ -11,7 +11,7 @@ main:
   - title: "Unified Multimodal Interleaved Document Representation for Retrieval"
     authors: <strong>Jaewoo Lee*</strong>, Joonho Ko*, Jinheon Baek*, Soyeong Jeong, Sung Ju Hwang 
     conference_short: EACL Findings
-    conference: European Chapter of the Association for Computational Linguistics <strong>(EACL Findings)</strong>, 2026.
+    conference: European Chapter of the Association for Computational Linguistics, Findings Long paper <strong>(EACL Findings)</strong>, 2026.
     pdf: https://arxiv.org/abs/2410.02729
     image: ./assets/img/IDentify.png
 
