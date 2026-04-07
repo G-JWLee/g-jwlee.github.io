@@ -3,7 +3,7 @@ main:
   - title: "PRInTS: Reward Modeling for Long-Horizon Information Seeking"
     authors: <strong>Jaewoo Lee</strong>, Archiki Prasad, Justin Chih-Yao Chen, Zaid Khan, Elias Stengel-Eskin, Mohit Bansal 
     conference_short: ACL
-    conference: Annual Meeting of the Association for Computational Linguistics, Main conference Long paper <strong>(ACL Findings)</strong>, 2026.
+    conference: Annual Meeting of the Association for Computational Linguistics, Main conference Long paper <strong>(ACL)</strong>, 2026.
     code: https://github.com/G-JWLee/PRInTS
     pdf: https://arxiv.org/abs/2511.19314
     image: ./assets/img/PRInTS.png
