@@ -1,10 +1,9 @@
 ## News
 
 - **[Jun. 2026]** New preprint is out, check out [HiViG](https://arxiv.org/abs/2606.11078)!
-- **[May. 2025]** I started 2026 Summer Research Internship at **Meta Superintelligence Labs**!
+- **[May. 2026]** I started 2026 Summer Research Internship at **Meta Superintelligence Labs**!
 - **[Apr. 2026]** One paper got accepted to **ACL 2026** 🇺🇸
 - **[Jan. 2026]** One paper got accepted to **EACL Findings 2026** 🇲🇦
-- **[Nov. 2025]** New preprint is out, check out [PRInTS](https://arxiv.org/abs/2511.19314)!
 - **[Aug. 2025]** I started my PhD journey at the UNC Chapel Hill [MURGe-Lab](https://murgelab.cs.unc.edu/)!
 - **[Apr. 2025]** One paper got accepted to **ACL Findings 2025** 🇦🇹
 - **[Feb. 2025]** I finished my research internship at [MIT Media Lab](https://www.media.mit.edu/)!
