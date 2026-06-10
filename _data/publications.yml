@@ -3,6 +3,7 @@ main:
   - title: "A History-Aware Visually Grounded Critic for Computer Use Agents"
     authors: <strong>Jaewoo Lee</strong>, Zaid Khan, Archiki Prasad, Justin Chih-Yao Chen, Supriyo Chakraborty, Kartik Balasubramaniam, Sambit Sahu, Elias Stengel-Eskin, Hyunji Lee, Mohit Bansal 
     conference_short: Preprint
+    conference: Preprint.
     code: https://github.com/G-JWLee/HiViG
     pdf: https://arxiv.org/abs/2606.11078
     image: ./assets/img/HiViG.png
