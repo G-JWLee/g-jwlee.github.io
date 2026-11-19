@@ -1,13 +1,11 @@
 ## News
-
-- **[Jun. 2026]** New preprint is out, check out [HiViG](https://arxiv.org/abs/2606.11078)!
-- **[May. 2025]** I started 2026 Summer Research Internship at **Meta Superintelligence Labs**!
-- **[Apr. 2026]** One paper got accepted to **ACL 2026** 🇺🇸
-- **[Jan. 2026]** One paper got accepted to **EACL Findings 2026** 🇲🇦
-- **[Nov. 2025]** New preprint is out, check out [PRInTS](https://arxiv.org/abs/2511.19314)!
-- **[Aug. 2025]** I started my PhD journey at the UNC Chapel Hill [MURGe-Lab](https://murgelab.cs.unc.edu/)!
-- **[Apr. 2025]** One paper got accepted to **ACL Findings 2025** 🇦🇹
-- **[Feb. 2025]** I finished my research internship at [MIT Media Lab](https://www.media.mit.edu/)!
-- **[Aug. 2024]** One paper got accepted to **EMNLP 2024** 🇺🇸
-- **[Jun. 2024]** I finished my research collaboration at [NTU](http://boyangli.org/)!
-- **[May. 2024]** One paper got accepted to **ICML 2024** 🇦🇹
+- **[Aug. 2026]** One paper got accepted to **EMNLP Findings 2026**
+- **[May. 2025]** Started 2026 Summer Research Internship at **Meta Superintelligence Labs**
+- **[Apr. 2026]** One paper got accepted to **ACL 2026**
+- **[Jan. 2026]** One paper got accepted to **EACL Findings 2026**
+- **[Aug. 2025]** Started my PhD journey at the UNC Chapel Hill [MURGe-Lab](https://murgelab.cs.unc.edu/)!
+- **[Apr. 2025]** One paper got accepted to **ACL Findings 2025**
+- **[Feb. 2025]** Finished my research internship at [MIT Media Lab](https://www.media.mit.edu/)!
+- **[Aug. 2024]** One paper got accepted to **EMNLP 2024**
+- **[Jun. 2024]** Finished my research collaboration at [NTU](http://boyangli.org/)!
+- **[May. 2024]** One paper got accepted to **ICML 2024**
