@@ -12,7 +12,7 @@ I received a M.S. degree in Artificial Intelligence at KAIST in Aug 2024 ([Prof.
 ## Research Interests
 - **Multimodal:** Vision-Language, Audio-Visual, Interleaved modalities  
 - **Agentic reasoning:**  Computer-Use agents, Embodied agents, Research agents  
-- **Efficiency:**  Test-time scaling, Data selection   
+- **Efficiency:**  Test-time scaling, Agentic memory, Data selection   
 
 {% include_relative _includes/news.md %}
 {% include_relative _includes/publications.md %}
